@@ -10,6 +10,7 @@
 
 [![Website](https://img.shields.io/badge/Website-cairosoftware.com-0A66C2?style=for-the-badge)](https://www.cairosoftware.com)
 [![License](https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Products](https://img.shields.io/badge/Products-Free-orange?style=for-the-badge)](https://www.cairosoftware.com)
 
 </div>
 
@@ -17,13 +18,27 @@
 
 ## 💡 About Us
 
-CairoSoftware builds lightweight, reliable Windows utilities that solve real-world problems, improve performance, and simplify everyday workflows — with a focus on simplicity, safety, and user-first design.
+CairoSoftware builds lightweight, reliable Windows utilities that solve
+real-world problems, improve performance, and simplify everyday workflows
+— with a focus on simplicity, safety, and user-first design.
 
 ---
 
+## 🛠️ Our Software
+
 <div align="center">
 
+| | Project | Description | Download |
+|---|---|---|---|
+| <img src="https://www.cairosoftware.com/media/products/icons/CairoSecureEraser.ico" width="24"/> | [Cairo Secure Eraser](https://github.com/CairoSoftware/cairo-secure-eraser) | Permanently delete sensitive files using multi-pass overwriting | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-secure-eraser/) |
+
+</div>
+
+---
+
 ## 📬 Contact
+
+<div align="center">
 
 <a href="https://www.cairosoftware.com">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
