@@ -23,10 +23,24 @@ daily tasks — built with simplicity, safety, and real user needs in mind.
 
 ## 📬 Contact
 
-- 🌐 [cairosoftware.com](https://www.cairosoftware.com)
-- 📧 [contact-us@cairosoftware.com](mailto:contact-us@cairosoftware.com)
-- ▶️ [YouTube](https://www.youtube.com/@CairoSoftware)
-- 𝕏 [Twitter / X](https://x.com/CairoSoftwareCo)
-- 📘 [Facebook](https://www.facebook.com/CairoSoftwareOfficial)
+<a href="https://www.cairosoftware.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg" width="16"/> Website
+</a> •
+
+<a href="mailto:contact-us@cairosoftware.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="16"/> Email
+</a> •
+
+<a href="https://www.youtube.com/@CairoSoftware">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="16"/> YouTube
+</a> •
+
+<a href="https://x.com/CairoSoftwareCo">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="16"/> X
+</a> •
+
+<a href="https://www.facebook.com/CairoSoftwareOfficial">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" width="16"/> Facebook
+</a>
 
 </div>
