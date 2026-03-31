@@ -28,9 +28,23 @@ real-world problems, improve performance, and simplify everyday workflows
 
 <div align="center">
 
+### 🔒 Security & Protection
+
 | | Project | Description | Download |
 |---|---|---|---|
-| <img src="https://www.cairosoftware.com/media/products/icons/CairoSecureEraser.ico" width="24"/> | [Cairo Secure Eraser](https://github.com/CairoSoftware/cairo-secure-eraser) | Permanently delete sensitive files using multi-pass overwriting | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-secure-eraser/) |
+| <img src="https://www.cairosoftware.com/media/products/icons/CairoSecureEraser.ico" width="24"/> | [Cairo Secure Eraser](https://github.com/CairoSoftware/cairo-secure-eraser) | Permanently delete sensitive files using multi-pass overwriting algorithms | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-secure-eraser/) |
+| <img src="https://www.cairosoftware.com/media/products/icons/CairoPrivacyCheck.ico" width="24"/> | [Cairo Privacy Check](https://github.com/CairoSoftware/cairo-privacy-check) | Scan and review system privacy settings to protect your personal data | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-privacy-check/download-free/) |
+| <img src="https://www.cairosoftware.com/media/products/icons/CairoFileExtensionAnalyzer.ico" width="24"/> | [Cairo File Extension Analyzer](https://github.com/CairoSoftware/cairo-file-extension-analyzer) | Analyze file extensions, detect dangerous files, and safely change extensions | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-file-extension-analyzer/download-free/) |
+
+### 🛠️ System Utilities & Tools
+
+| | Project | Description | Download |
+|---|---|---|---|
+| <img src="https://www.cairosoftware.com/media/products/icons/CairoDuplicateFinder.ico" width="24"/> | [Cairo Duplicate Finder](https://github.com/CairoSoftware/cairo-duplicate-finder) | Identify and remove duplicate files to free up storage space | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-duplicate-finder/download-free/) |
+| <img src="https://www.cairosoftware.com/media/products/icons/CairoHardwareInfo.ico" width="24"/> | [Cairo Hardware Info](https://github.com/CairoSoftware/cairo-hardware-info) | Display detailed hardware information including CPU, memory, storage, and graphics | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-hardware-info/download-free/) |
+| <img src="https://www.cairosoftware.com/media/products/icons/CairoFileOrganizer.ico" width="24"/> | [Cairo File Organizer](https://github.com/CairoSoftware/cairo-file-organizer) | Automatically organize files by type, preview changes, and safely handle duplicates | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-file-organizer/download-free/) |
+| <img src="https://www.cairosoftware.com/media/products/icons/PcHealthScanner.ico" width="24"/> | [Cairo PC Health Scanner](https://github.com/CairoSoftware/cairo-pc-health-scanner) | Check PC health including performance, startup programs, and disk health | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-pc-health-scanner/download-free/) |
+| <img src="https://www.cairosoftware.com/media/products/icons/CairoDriverInspector.ico" width="24"/> | [Cairo Driver Inspector](https://github.com/CairoSoftware/cairo-driver-inspector) | Check Windows drivers, identify outdated or missing drivers, and backup old drivers | [⬇️ Download](https://www.cairosoftware.com/en/products/cairo-driver-inspector/download-free/) |
 
 </div>
 
